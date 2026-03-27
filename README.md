@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/0070-climbing-stairs/) | Easy |
+| [0198-house-robber](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Memoization
@@ -22,5 +23,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0198-house-robber](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
