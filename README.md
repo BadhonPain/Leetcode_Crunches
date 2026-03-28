@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/0072-edit-distance/) | Medium |
 | [0198-house-robber](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/0198-house-robber/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -31,5 +32,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/0072-edit-distance/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
