@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/0200-number-of-islands/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1584-min-cost-to-connect-all-points](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,8 +62,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/0200-number-of-islands/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/0200-number-of-islands/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/BadhonPain/Leetcode_Crunches/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
